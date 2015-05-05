@@ -1,0 +1,15 @@
+{
+  "name": "vanilla-node",
+  "version": "0.1.0",
+  "description": "vanilla node http server",
+  "main": "server.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha test/**/*test.js",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
