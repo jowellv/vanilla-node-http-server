@@ -1,5 +1,3 @@
-[![Build Status](https://travis-ci.org/jowellv/vanilla-node-http-server.svg?branch=servertime)](https://travis-ci.org/jowellv/vanilla-node-http-server)
-
 # Vanilla Node Server
 
 `/time request`
